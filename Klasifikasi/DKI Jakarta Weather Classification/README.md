@@ -1,1 +1,3 @@
-![Klasikasi Cuaca Provinsi DKI Jakarta](https://github.com/raihankemmy/Machine-Learning/assets/60603057/23f1ba6b-5cf5-4e72-a3fd-7ad5f535f58d)
+[Data Science] DKI Jakarta Weather Classification - **Summary**<br><br>
+![DKI Jakarta Weather Classification](https://github.com/raihankemmy/Machine-Learning/assets/60603057/00dd4583-b392-4f5e-90b6-42d46c7f7bcd)
+
