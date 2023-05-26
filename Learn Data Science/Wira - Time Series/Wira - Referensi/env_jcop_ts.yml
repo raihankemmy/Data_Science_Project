@@ -1,0 +1,32 @@
+name: jcop_ts
+
+channels:
+- conda-forge
+- anaconda 
+
+dependencies:
+# Essential
+- python==3.9
+- nb_conda_kernels
+- pip==22.1.2
+- ipython==8.4.0
+- tqdm==4.64.0
+# Data Science
+- numpy==1.23.0
+- scipy==1.8.1
+- pandas==1.4.3
+# Machine Learning
+- scikit-learn==1.1.1
+- statsmodels==0.13.2
+# Visualization
+- matplotlib==3.5.2
+- seaborn==0.11.2
+- ipywidgets==7.7.1
+
+- pip:
+  # Machine Learning
+  - xgboost==1.6.1
+  - scikit-optimize==0.9.0
+  - jcopml==1.1.14
+  - luwiji==1.1.8
+  - pmdarima==1.8.5
